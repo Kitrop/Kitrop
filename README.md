@@ -13,6 +13,6 @@
   </div>
 </div
 <div align="center">
-  <img src="https://e7.pngegg.com/pngimages/417/882/png-clipart-twitch-sombra-logo-others-purple-violet.png"/ width="300">
+  <img src="[![png-clipart-twitch-sombra-logo-others-purple-violet-transformed.png](https://i.postimg.cc/wTRQsKmb/png-clipart-twitch-sombra-logo-others-purple-violet-transformed.png)](https://postimg.cc/N5YHWzb1)"/ width="300">
 </div>
 
