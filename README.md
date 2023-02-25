@@ -4,7 +4,7 @@
 
 <br>
 
-## About me
+## :man:About me
 <div>
   <div>My name is Zhenya, I am 19 years old, I live and study in Moscow, I have been doing frontend development for a little more than a year. I started to get interested in programming at the age of 17.</div>
   <br>
