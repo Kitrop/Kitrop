@@ -40,5 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop&layout=default" alt="stats"/>
 </div
 
+<hr>
+<img src="contributions.svg">
   
 
