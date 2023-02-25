@@ -41,6 +41,6 @@
 </div
 
 <hr>
-<img src="contributions.svg">
+<a><img src="contributions.svg"></a>
   
 
