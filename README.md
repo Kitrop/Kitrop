@@ -41,6 +41,6 @@
 </div
 
 <hr>
-<a><img src="contributions.svg"></a>
+<a><img src="github-user-contribution.svg"></a>
   
 
