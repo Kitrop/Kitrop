@@ -12,4 +12,7 @@
     </a>
   </div>
 </div
+<div align="center">
+  <img src="https://e7.pngegg.com/pngimages/417/882/png-clipart-twitch-sombra-logo-others-purple-violet.png"/ width="300">
+</div>
 
