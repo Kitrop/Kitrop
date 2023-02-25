@@ -1,5 +1,5 @@
 <div align="center">
-  [<img src="https://i.postimg.cc/0yZSWmbF/bg.jpg" />](https://postimg.cc/0zMrrzG0)
+  <img src="https://i.postimg.cc/0yZSWmbF/bg.jpg" />
 </div>
 
 <div align="center">
