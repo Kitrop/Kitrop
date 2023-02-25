@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/34fe4f926fc932a3de839fc7a907214c407dc68313e2153881933d086778e1f9/68747470733a2f2f632e74656e6f722e636f6d2f545265556f6a4e6c5a367741414141692f6a732d6a6176617363726970742e67696666" alt="javascript" width="75"/>
-  <img src="https://ibb.co/3YGjZNP" src="react" width="75"/>
+  <img src="[https://ibb.co/3YGjZNP](https://imgur.com/Y3Otbf6)" src="react" width="75"/>
    <img src="https://ibb.co/3YGjZNP" src="typescript" width="75"/>
 </div
 <div align="center">
