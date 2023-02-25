@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Kitrop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me
-<!---
-Kitrop/Kitrop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://camo.githubusercontent.com/34fe4f926fc932a3de839fc7a907214c407dc68313e2153881933d086778e1f9/68747470733a2f2f632e74656e6f722e636f6d2f545265556f6a4e6c5a367741414141692f6a732d6a6176617363726970742e67696666" alt="javascript"/>
+  </div
