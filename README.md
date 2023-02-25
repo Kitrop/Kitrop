@@ -23,6 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" src="react" width="75" />
   <img src="https://avatars.mds.yandex.net/i?id=f8261e35a4df4f8ecf9ecf22a7f30726_sr-5578976-images-thumbs&n=13&exp=1" src="typescript" width="75" />
   <img src="https://i.postimg.cc/3JZCHctb/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-transformed.png" src="redux" width="100" />
+  <img src="https://i.postimg.cc/YC6ckk5B/i-y4u-Ip-E8r-O-transformed.png" src="formik" width="75" />
 </div>
 
 ## :star:Stats
