@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://t.me/ShbEvg" target="_blank" >
-      <img src="https://img.shields.io/badge/vkontakte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/vkontakte-2CA5E0?style=for-the-badge&logo=vkontakte&logoColor=white" />
     </a>
 </div>
 
