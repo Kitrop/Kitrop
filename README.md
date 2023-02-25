@@ -2,12 +2,6 @@
   <img src="https://i.postimg.cc/0yZSWmbF/bg.jpg" />
 </div>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/34fe4f926fc932a3de839fc7a907214c407dc68313e2153881933d086778e1f9/68747470733a2f2f632e74656e6f722e636f6d2f545265556f6a4e6c5a367741414141692f6a732d6a6176617363726970742e67696666" alt="javascript" width="75" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" src="react" width="75" />
-   <img src="https://avatars.mds.yandex.net/i?id=f8261e35a4df4f8ecf9ecf22a7f30726_sr-5578976-images-thumbs&n=13&exp=1" src="typescript" width="75" />
-</div
-
 <br>
 
 ## My social(connect with me)
@@ -23,3 +17,13 @@
     </a>
 </div>
 
+## Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop&layout=default" alt="stats"/>
+</div
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/34fe4f926fc932a3de839fc7a907214c407dc68313e2153881933d086778e1f9/68747470733a2f2f632e74656e6f722e636f6d2f545265556f6a4e6c5a367741414141692f6a732d6a6176617363726970742e67696666" alt="javascript" width="75" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" src="react" width="75" />
+   <img src="https://avatars.mds.yandex.net/i?id=f8261e35a4df4f8ecf9ecf22a7f30726_sr-5578976-images-thumbs&n=13&exp=1" src="typescript" width="75" />
+</div>
