@@ -14,7 +14,7 @@
     <a href="mailto:zhenya.shabolin.03@gmail.com" target="_blank" >
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://t.me/ShbEvg" target="_blank" >
+    <a href="https://vk.com/zhenyashab" target="_blank" >
       <img src="https://img.shields.io/badge/vk-2CA5E0?style=for-the-badge&logo=vk&logoColor=white" />
     </a>
 </div>
