@@ -4,6 +4,13 @@
 
 <br>
 
+## About me
+<div align="center">
+  <div>My name is Zhenya, I am 19 years old, I live and study in Moscow, I have been doing frontend development for a little more than a year. I started to get interested in programming at the age of 17.</div>
+  <div>My hobbies: computer hardware, cooking, technical literature</div>
+  <div>I don't like: movies, TV series, noise</div>
+</div>
+
 ## :globe_with_meridians:My social(connect with me)
 <div align="center">
     <a href="https://t.me/ShbEvg" target="_blank" >
