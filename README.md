@@ -37,7 +37,7 @@
 
 ## :star:Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop&layout=default" alt="stats"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop)](https://github.com/anuraghazra/github-readme-stats)
 </div
 
 ## :snake:Snake
