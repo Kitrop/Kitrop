@@ -6,7 +6,7 @@
 
 ## :information_desk_person:About me
 <div>
-  <div>I am 20 years old, I live and study in Moscow, I have been doing frontend development for a little more than a year. I started to get interested in programming at the age of 17.</div>
+  <div>Hello my name is Zhenya, I am 20 years old, I live and study in Moscow, I have been doing frontend development for a little more than a year. I started to get interested in programming at the age of 17.</div>
   <br>
   <div>My hobbies: computer hardware, cooking, technical literature</div>
   <br>
