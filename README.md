@@ -10,7 +10,6 @@
   <br>
   <div>My hobbies: computer hardware, cooking, technical literature</div>
   <br>
-  <div>I don't like: movies, TV series, noise</div>
 </div>
 
 ## :globe_with_meridians:My social(connect with me)
