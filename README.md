@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.postimg.cc/0yZSWmbF/bg.jpg" />
+</div>
 
 ## :information_desk_person:About me
 <div>
