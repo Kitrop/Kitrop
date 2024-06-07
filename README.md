@@ -1,8 +1,3 @@
-![image](https://github.com/Kitrop/Kitrop/assets/49404135/2669f601-b9ad-47e7-b850-bbcbaa592217)![image](https://github.com/Kitrop/Kitrop/assets/49404135/feb9980c-6238-4252-a903-420953ea1ddd)<div align="center">
-  <img src="https://i.postimg.cc/0yZSWmbF/bg.jpg" />
-</div>
-
-<br>
 
 ## :information_desk_person:About me
 <div>
