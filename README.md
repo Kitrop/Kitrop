@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.png" />
+  <img src="https://imgur.com/y1GRn8P" />
 </div>
 
 ## :information_desk_person:About me
