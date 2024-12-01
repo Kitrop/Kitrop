@@ -37,8 +37,8 @@
 
 ## :star:Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop&theme=dark" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop&theme=radical" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kitrop&theme=transparent" alt="stats_profile" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop&theme=transparent" alt="stats_language" />
 </div
 
 ## :snake:Snake
