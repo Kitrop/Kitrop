@@ -38,6 +38,7 @@
 ## :star:Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop&theme=dark" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitrop&theme=radical" alt="stats" />
 </div
 
 ## :snake:Snake
