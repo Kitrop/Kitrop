@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/y1GRn8P" />
+  <img src="https://i.imgur.com/y1GRn8P.png" />
 </div>
 
 ## :information_desk_person:About me
