@@ -12,19 +12,6 @@
   <br>
 </div>
 
-## :globe_with_meridians:My social(connect with me)
-<div align="center">
-    <a href="https://t.me/ShbEvg" target="_blank" >
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-    <a href="mailto:zhenya.shabolin.03@gmail.com" target="_blank" >
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://vk.com/zhenyashab" target="_blank" >
-      <img src="https://img.shields.io/badge/vkontakte-2CA5E0?style=for-the-badge&logo=vk&logoColor=white" />
-    </a>
-</div>
-
 ## :wrench:MyStack
 <div align="center">
   <img src="https://yt3.googleusercontent.com/ytc/AGIKgqM-mKpeB4_a_QWYQFmQk3ltkdL3YSnQomNPp_O0IQ=s900-c-k-c0x00ffffff-no-rj" alt="javascript" width="75" />
